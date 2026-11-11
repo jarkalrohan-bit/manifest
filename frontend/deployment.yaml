@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: rohanjarkal/null:104
+          image: rohanjarkal/null:105
           imagePullPolicy: IfNotPresent
           ports:
             - name: http
