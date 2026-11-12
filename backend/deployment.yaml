@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: rohanjarkal/null:108
+          image: rohanjarkal/null:109
           imagePullPolicy: IfNotPresent
           ports:
             - name: http
